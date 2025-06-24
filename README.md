@@ -1,15 +1,6 @@
-You're right, Harshini — the formatting in your GitHub `README.md` isn't rendering perfectly because of small issues like:
 
-* Missing line breaks between sections
-* Incorrect triple backticks for code blocks (should be \`\`\` without extra characters like `bash`)
-* Folder structure shown inline instead of as a proper code block
 
----
-
-### ✅ Here's the **correctly formatted** `README.md` to copy-paste:
-
-```markdown
-# Low_Bot_Project 🧠📄
+### Low_Bot_Project 🧠📄
 
 This project automates the extraction and matching of copyright registration details from scanned document images using Optical Character Recognition (OCR).
 
@@ -81,14 +72,4 @@ python ocr_matcher.py
 
 ```
 
----
 
-### ✅ To Update Your GitHub README:
-
-1. In GitHub, go to your repo.
-2. Click the ✏️ “edit” icon next to `README.md`
-3. Delete everything and **paste** the above code.
-4. Scroll down and click **“Commit changes”**.
-
-Let me know when you're done — I can help you add badges or visuals next if you'd like!
-```
